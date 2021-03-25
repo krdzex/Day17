@@ -8,25 +8,25 @@ var users = [
         firstName: "John",
         lastName: "Doe",
         age: 24,
-        gender: "male",
+        gender: "male"
     },
     {
         firstName: "Jane",
         lastName: "Doe",
         age: 5,
-        gender: "female",
+        gender: "female"
     },
     {
         firstName: "Jim",
         lastName: "Carrey",
         age: 54,
-        gender: "male",
+        gender: "male"
     },
     {
         firstName: "Kate",
         lastName: "Winslet",
         age: 40,
-        gender: "female",
+        gender: "female"
     }
 ];
 // users nested array with four objects ends here
