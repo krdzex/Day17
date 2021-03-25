@@ -6,7 +6,7 @@ const MY_CAR = {
 function main(myCar) {
     // Only change code below this line
 
-    const { cylinders, size } = myCar;
+    var { cylinders, size } = myCar;
 
     return {
         cylinders,
