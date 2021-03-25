@@ -58,7 +58,7 @@ function findUserById(id) {
 }
 // findUserByID(id) function ends here
 // Only change code above this line
-console.log(getUsers());
-console.log(findUserById(2)); // Change this line
+getUsers();
+findUserById(2); // Change this line
 
 module.exports = findUserById;
