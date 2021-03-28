@@ -8,10 +8,8 @@ function main(baking) {
 
     const { bread: { low: lowBread, high: highBread } } = baking;
 
-    return {
-        lowBread,
-        highBread
-    };
+    return { lowBread, highBread };
+    
 
     // Only change code above this line
 }
